@@ -2,7 +2,7 @@
 
 *Max 8.5*
 
-This Max for Live Device slices a Sample in evenly spaced segments.
+This Max for Live Device slices a sample in evenly spaced segments.
 Each segment can be played via MIDI.
 
 
